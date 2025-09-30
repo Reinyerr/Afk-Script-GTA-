@@ -35,4 +35,5 @@ F4 – Force-close GTA V safely (Alt+F4 + Enter spam)
 This script is intended for personal/educational use. Use responsibly and at your own risk, as third-party automation tools may conflict with online policies.
 
 ## **Video Tutorial**
+https://github.com/user-attachments/assets/32541c78-203f-4a2b-a80e-5f9fc6d1ea6a
 
