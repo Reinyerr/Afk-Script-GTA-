@@ -1,5 +1,5 @@
-**GTA V Anti-AFK Script (AutoHotkey v2)
-**This AutoHotkey v2 script prevents Grand Theft Auto V from disconnecting players due to inactivity. It automatically reactivates the GTA window before the AFK timer expires, performs randomized clicks and movement inputs to simulate natural gameplay, and then restores focus to the previously active window. This allows users to stay connected while multitasking outside of the game.
+#GTA V Anti-AFK Script (AutoHotkey v2)
+This AutoHotkey v2 script prevents Grand Theft Auto V from disconnecting players due to inactivity. It automatically reactivates the GTA window before the AFK timer expires, performs randomized clicks and movement inputs to simulate natural gameplay, and then restores focus to the previously active window. This allows users to stay connected while multitasking outside of the game.
 
 ✨ **Features**
 
