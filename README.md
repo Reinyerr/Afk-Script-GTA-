@@ -23,14 +23,12 @@ F3 – Exit the script completely
 
 F4 – Force-close GTA V safely (Alt+F4 + Enter spam)
 
-## **📂 How to Use
-**
+## **📂 How to Use**
 1. Install AutoHotkey v2.
 2. Download this script and save it as GTA_AntiAFK.ahk.
 3. Double-click the script to run it.
 4. Press F1 to start. The script will keep you active in GTA V while you are tabbed out.
 5. Use F2, F3, or F4 as needed to manage the script or the game.
 
-## **⚠️ Disclaimer
-**
+## **⚠️ Disclaimer**
 This script is intended for personal/educational use. Use responsibly and at your own risk, as third-party automation tools may conflict with online policies.
