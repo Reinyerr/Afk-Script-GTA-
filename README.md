@@ -4,15 +4,11 @@ This AutoHotkey v2 script prevents Grand Theft Auto V from disconnecting players
 
 ## **Features**
 
-Prevents AFK kicks by simulating random in-game activity
-
-Allows the user to tab out and continue other tasks
-
-Restores focus to the original window after activity
-
-Simple hotkey controls for starting, stopping, and exiting
-
-Force-close option for GTA V if needed
+• Prevents AFK kicks by simulating random in-game activity  
+• Allows the user to tab out and continue other tasks  
+• Restores focus to the original window after activity  
+• Simple hotkey controls for starting, stopping, and exiting  
+• Force-close option for GTA V if needed
 
 ## **Hotkeys**
 
